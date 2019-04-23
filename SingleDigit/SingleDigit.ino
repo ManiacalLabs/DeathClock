@@ -15,7 +15,7 @@ CRGB leds[NUM_LEDS];
 #define RAINBOW_COUNT 10
 CRGB rainbow[RAINBOW_COUNT];
 
-#define BRIGHTNESS          32
+#define BRIGHTNESS          24
 #define FRAMES_PER_SECOND  120
 
 void setup() {
